@@ -1,0 +1,7 @@
+Revision history for File-Raw-DAWG
+
+0.01    unreleased
+        - The artifact format, pinned: file_raw_dawg.h and t/01-format.t
+        - build: a sorted word list compiled to one packed artifact
+        - open, contains, has_prefix and the walk, over a mapping
+        - file_raw_dawg.h installed: the format and the walk as C, no Perl

@@ -1,0 +1,6 @@
+car
+cars
+cat
+cats
+do
+dog
